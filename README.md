@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Negi</h1>
-<h3 align="center">An aspiring Data Analyst</h3>
-<img align="right" alt"Coding" width="1000" src="https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
+<h3 align="center">A Passionate Coder</h3>
+<img align="right" alt"Coding" width="1000" src="https://c.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartiknegi26" alt="kartiknegi26" /></a> </p>
 
@@ -8,8 +9,11 @@
 
 - 📫 How to reach me **kartiknegic2@gmail.com**
 
+- ⚡ Fun fact **National Level Football Player**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/kartiknegic2@gamil.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kartiknegic2@gamil.com" height="30" width="40" /></a>
 <a href="https://instagram.com/kartiknegic2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartiknegic2" height="30" width="40" /></a>
 </p>
 

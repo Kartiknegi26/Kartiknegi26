@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Negi</h1>
 <h3 align="center">A Passionate Coder</h3>
-<img align="right" alt"Coding" width="1000" src="https://c.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
+<img align="right" alt"Coding" width="1001" src="https://c.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartiknegi26" alt="kartiknegi26" /></a> </p>

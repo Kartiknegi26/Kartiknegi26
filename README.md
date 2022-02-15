@@ -1,6 +1,6 @@
 <h1 align="center">Heyy there! 👋 , I'm Kartik Negi</h1>
 <h3 align="center">A Passionate Coder</h3>
-<img align="right" alt"Coding" width="1001" src="https://c.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
+<img align="right" alt"Coding" width="1001" src="https://media3.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=ecf05e47jvji9ek98gn7a3zun8kflh8gn2xag3yio1c1v3kj&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartiknegi26" alt="kartiknegi26" /></a> </p>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik Negi</h1>
+<h1 align="center">Heyy there! 👋 , I'm Kartik Negi</h1>
 <h3 align="center">A Passionate Coder</h3>
 <img align="right" alt"Coding" width="1001" src="https://c.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
 

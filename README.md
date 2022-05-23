@@ -1,4 +1,4 @@
-<h1 align="center">Heyy there! 👋 , I'm Kartik Negi</h1>
+<h1 align="center">Hey there! 👋 , I'm Kartik Negi</h1>
 <h3 align="center">A Passionate Coder</h3>
 <img align="right" alt"Coding" width="1001" src="https://media3.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=ecf05e47jvji9ek98gn7a3zun8kflh8gn2xag3yio1c1v3kj&rid=giphy.gif&ct=g">
 
